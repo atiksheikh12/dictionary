@@ -1,0 +1,5 @@
+com\dictionary\domain\DictionaryActions.class
+com\dictionary\Main.class
+com\dictionary\service\DictionaryService$1.class
+com\dictionary\service\DictionaryService.class
+com\dictionary\domain\DictionaryValue.class
